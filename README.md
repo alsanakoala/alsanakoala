@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-  <a href="https://www.linkedin.com/in/serhathancer/" target="_blank" rel="nofollow"><img alt="Serhat's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/serhat.hancer/" target="_blank" rel="nofollow"><img alt="Serhat's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hancer_offical2@hotmail.com" target="_blank" rel="nofollow"><img alt="Serhat's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
