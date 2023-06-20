@@ -28,8 +28,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsanakoala&" alt="alsanakoala" /></p>
+Here are some ideas to get you started:
 - 🌱 I’m currently learning **C++, C# and Java**
-- 📫 How to reach me **hancer_offical2@hotmail.com**
+[- 📫 How to reach me **hancer_offical2@hotmail.com**](https://www.linkedin.com/in/serhat-han%C3%A7er-a57078279/)
+
 
 
 
