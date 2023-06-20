@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Serhat Hançer</h1>
 <h3 align="center">A passionate software engineer student from Turkey</h3>
 
-- 🌱 I’m currently learning **C++, C# and Java**
 
-- 📫 How to reach me **hancer_offical2@hotmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsanakoala&" alt="alsanakoala" /></p>
+- 🌱 I’m currently learning **C++, C# and Java**
+- 📫 How to reach me **hancer_offical2@hotmail.com**
+
 
 
 
