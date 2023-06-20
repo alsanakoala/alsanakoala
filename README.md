@@ -1,4 +1,4 @@
-[![MasterHead](https://muratbutun.com/yazilim-muhendisligi-nasil-bir-bolum.html)
+
 <h1 align="center">Hi 👋, I'm Serhat Hançer</h1>
 <h3 align="center">A passionate software engineer student from Turkey</h3>
 
