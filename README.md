@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **C++, C# and Java**
 
   
-[- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/serhat-hançer-a57078279/)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/serhat-hançer-a57078279/)
 
 
 
